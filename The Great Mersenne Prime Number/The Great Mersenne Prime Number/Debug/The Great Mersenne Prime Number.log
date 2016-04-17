@@ -1,0 +1,3 @@
+﻿  The Great Mersenne Prime Number.cpp
+d:\microsoft visual studio projects\c++\the great mersenne prime number\the great mersenne prime number\the great mersenne prime number.cpp(45): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+  The Great Mersenne Prime Number.vcxproj -> D:\Microsoft Visual Studio Projects\C++\The Great Mersenne Prime Number\Debug\The Great Mersenne Prime Number.exe
